@@ -1,4 +1,6 @@
+
 #PARTE 1
+
   Questões 2 e 3
   Identificação de problemas -- Falhas no código
   1. Código de classificação está repetitivo, verificação imc == 16 é desnecessária, por exemplo.
