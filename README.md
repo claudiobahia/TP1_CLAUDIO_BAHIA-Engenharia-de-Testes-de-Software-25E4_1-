@@ -17,7 +17,7 @@
   6. Isolar a lógica de cálculo e classificação da parte de interação com o usuário para facilitar testes automatizados.
   */
   
-  #Código é referente Questões 1 4 e 5
+  #Código pasta PARTE 1 é referente Questões 1 4 e 5
 
 
 # PARTE 2
