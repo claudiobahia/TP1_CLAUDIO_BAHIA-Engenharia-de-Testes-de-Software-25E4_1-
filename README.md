@@ -17,3 +17,6 @@
   */
   
   #Código é referente Questões 1 4 e 5
+
+
+# PARTE 2
